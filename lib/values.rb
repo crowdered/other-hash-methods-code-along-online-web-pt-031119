@@ -10,4 +10,5 @@ grains: ["rice", "pasta"]
 
 def get_the_values(groceries)
   groceries.values
+  binding.pry
 end
